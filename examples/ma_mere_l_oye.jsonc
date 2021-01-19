@@ -1,0 +1,18 @@
+// Ma mère l'oye, M. 60: I. Pavane de la Belle au bois dormant
+{
+  "levels": 2, // test
+  "composer": "Maurice Ravel",
+  "class": [
+    {
+      "number": 60,
+      "name": "Ma mère l'oye",
+      "canon-type": "M.",
+      "display": "arabic"
+    },
+    {
+      "number": 1,
+      "name": "Pavane de la Belle au bois dormant",
+      "display": "roman"
+    }
+  ]
+}
