@@ -6,13 +6,13 @@
     {
       "number": 60,
       "name": "Ma mère l'oye",
-      "canon-type": "M.",
+      "prefix": "M.",
       "display": "arabic"
     },
     {
       "number": 1,
       "name": "Pavane de la Belle au bois dormant",
-      "display": "roman"
+      "display": "Roman"
     }
   ]
 }
