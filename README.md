@@ -33,8 +33,15 @@ See the example metadata files in [`examples/`](examples/) directory.
 - The name of the piece within the work
 - The full name with the piece and its work
 
+To run `musedata.ts`
+
+```sh
+$ cat examples/$filename | ./musedata.ts
+```
+
 ## Status
 
 Currently this is really bad. Doesn't support many other styles of naming
 classical pieces, and most things are hardcoded. This was just an experiment.
-s
+
+

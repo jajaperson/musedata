@@ -1,4 +1,4 @@
-#!/usr/bin/env deno
+#!/usr/bin/env deno run
 
 import * as JSONC from "https://jspm.dev/jsonc-parser";
 
